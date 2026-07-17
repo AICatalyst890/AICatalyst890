@@ -67,13 +67,14 @@
 ## 📊 Analytical Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AICatalyst890&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Kashish's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AICatalyst890&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aicatalyst890&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Kashish's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aicatalyst890&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AICatalyst890&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aicatalyst890&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
+
 
 ---
 

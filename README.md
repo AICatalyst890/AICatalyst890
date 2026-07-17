@@ -64,23 +64,31 @@
 
 ---
 
-## 📊 Analytical Overview
+## 🌐 Connect
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aicatalyst890&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Kashish's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aicatalyst890&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
+- GitHub: https://github.com/AICatalyst890
+- LinkedIn: https://www.linkedin.com/in/kashish-sharma-80b539362
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aicatalyst890&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+## 📊 GitHub Stats
 
+![](https://github-readme-stats.vercel.app/api?username=AICatalyst890&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=AICatalyst890&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AICatalyst890&layout=compact&theme=tokyonight)
+
+## 🏆 Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=AICatalyst890&theme=tokyonight)
+
+## 📈 Activity Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=AICatalyst890&theme=tokyo-night)
+
+
+## 👀 Visitors
+
+![](https://komarev.com/ghpvc/?username=AICatalyst890&label=Profile%20Views)
 
 ---
-
-## 🌐 Digital Connection
-
-Let’s chat about math-backed machine learning solutions, deep learning models, or hackathon collaborations!
-
-*   **LinkedIn Profile:** [Kashish Sharma (Connect)](https://www.linkedin.com/in/kashish-sharma-80b539362/)
-*   **GitHub Username:** [@AICatalyst890](https://github.com/AICatalyst890)
+⭐ Thanks for visiting my profile!-

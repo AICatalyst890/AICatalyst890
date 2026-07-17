@@ -77,12 +77,12 @@
 
 ### 🌐 Web & Deployment
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,flask,fastapi&theme=dark" alt="Web Frameworks" />
+  <img src="https://skillicons.dev/icons?i=html,css,flask,&theme=dark" alt="Web Frameworks" />
 </p>
 
 ### ⚙️ Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Tools" />
   <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" height="48" alt="Google Colab" />
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" height="48" alt="Jupyter Notebook" />
 </p>
